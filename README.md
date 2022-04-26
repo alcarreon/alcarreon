@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **API's, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://albert-carreon.netlify.app/](https://albert-carreon.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://albert-carreon.netlify.app/)
 
 - 💬 Ask me about **Javascript, Git, Python**
 
