@@ -1,4 +1,4 @@
-<h3 align="center">I am an Indianapolis based Full Stack Developer</h3>
+<h3 align="center">I Am An Indianapolis Based Full Stack Developer</h3>
 
 - 🔭 I’m currently working as a **Software Engineer and contributing to frontend and backend web applications.**
 
