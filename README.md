@@ -21,5 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcarreon&show_icons=true&theme=dark&locale=en&layout=compact" alt="alcarreon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alcarreon&theme=dark" alt="alcarreon" /></p>
-**Link to CodeWars:** 
-[![Profile badge](https://www.codewars.com/users/_alcarreon_/badges/large)](https://www.codewars.com/users/_katmlane_)
+**Link to CodeWars:**
+[![Profile badge](https://www.codewars.com/users/_alcarreon_/badges/large)](https://www.codewars.com/users/_alcarreon_)
