@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alcarreon&theme=dark" alt="alcarreon" /></p>
 **Link to CodeWars:**
-[![Profile badge](https://www.codewars.com/users/_alcarreon_/badges/large)](https://www.codewars.com/users/_alcarreon_)
+[![Profile badge](https://www.codewars.com/users/alcarreon/badges/large)](https://www.codewars.com/users/alcarreon)
